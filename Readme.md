@@ -10,7 +10,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 # Cybersecurity
 Cybersecurity is the practice of protecting critical systems and sensitive information from digital attacks.
 
-
+# Breakdown
 Basic terminologies and concepts
 Career roles
 Footprintimg and Reconnaissance
