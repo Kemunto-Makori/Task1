@@ -1,8 +1,11 @@
 # 1. Git and Github
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere whereas Git is a version control system that lets you manage and keep track of your source code history.
 
+
 While Git can be viewed as a software, github is a service
+
 Git is a commandline tool whereas Github is a Graphical user Interface
+
 Git is installed locally on the system whereas Github is hosted on the web
 
 # 2. Technology of Interest
